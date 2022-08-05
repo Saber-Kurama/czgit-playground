@@ -1,6 +1,6 @@
 {
   "name": "czgit-playground",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> provide [cz-git](https://github.com/Zhengqbbb/cz-git) configure playground",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zhengqbbb/czgit-playground.git"
+    "url": "git@github.com:Saber-Kurama/czgit-playground.git"
   },
   "keywords": [],
   "author": "",
